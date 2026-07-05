@@ -6,25 +6,6 @@ This project was developed as my **first university project** to practice progra
 
 ---
 
-## 📸 Screenshots
-
-### 🎬 Title Screen
-
-![Title Screen](screenshots/title.png)
-
-### ⚙️ Difficulty Selection
-
-![Difficulty](screenshots/difficulty.png)
-
-### 🎮 Gameplay
-
-![Gameplay](screenshots/gameplay.png)
-
-### 💀 Game Over
-
-![Game Over](screenshots/gameover.png)
-
----
 
 ## ✨ Features
 
